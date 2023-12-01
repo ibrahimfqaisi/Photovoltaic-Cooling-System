@@ -6,6 +6,7 @@ Provide a brief description of your Arduino project. What does it do? What probl
 
 ## Table of Contents
 
+- [Graduation Project Details](#graduation-project-details)
 - [Features](#features)
 - [Requirements](#requirements)
 - [Setup](#setup)
@@ -13,6 +14,26 @@ Provide a brief description of your Arduino project. What does it do? What probl
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
 - [License](#license)
+
+
+## Graduation Project Details
+
+This project was prepared by the following team members:
+
+- Ibrahim Adnan Ghaleb Fqaisi
+- Barham Jeries Barham Farraj
+- Mohannad Mohammad Saeed Ghabboun
+- Abd Al Rahman Mohammad Mustafa Issa
+- Abd Al Kareem Ibrahim Abd Al Rahman Habahbeh
+- Mohammad Mustafa Mohammad Al Horani
+
+It was supervised by Prof. Omar Othman Badran.
+
+
+
+### Project PDF
+
+Download the detailed project documentation in [PDF format](/Graduation%20Project%20Details.pdf).
 
 ## Features
 
